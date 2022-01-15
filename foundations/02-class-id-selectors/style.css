@@ -1,0 +1,18 @@
+.pink-red{
+    background-color: rgba(187, 6, 15, 0.657);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.cool-size{
+    font-size: 24px;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
